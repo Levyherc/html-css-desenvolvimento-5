@@ -10,5 +10,5 @@ Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a
 
 <p>Você pode verificar o resultado acessado o link</p>
 <p>
-  https://levyherc.github.io/html-css-desenvolvimento-3/pontos_turisticos
+  https://levyherc.github.io/html-css-desenvolvimento-5/
 </p>
